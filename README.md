@@ -1,6 +1,9 @@
 # scrollAdjuster
 When we navigate away from page, remember the scroll position and while returning to the page scroll to that exact position with an animation
 
+Note:-Since this plugin make use of html session storage, if you are planning to run this code on internet explorer please make sure that you are running it using a server
+
+
 ##Quick start
 
 Download and link the latest Jquery file
